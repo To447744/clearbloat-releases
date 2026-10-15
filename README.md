@@ -14,12 +14,7 @@ ClearBloat règle Windows pour le jeu : il applique des optimisations au gain **
 
 ## Démonstration
 
-<video src="https://github.com/To447744/clearbloat-releases/releases/download/presentation/ClearBloat-promo-v5.mp4" controls width="100%"></video>
-
-> La vidéo ne se lance pas ici ? [Ouvre-la directement.](https://github.com/To447744/clearbloat-releases/releases/download/presentation/ClearBloat-promo-v5.mp4)
-
-**Didacticiel pas à pas :** [Français](https://github.com/To447744/clearbloat-releases/releases/download/presentation/ClearBloat-tutoriel-v2-fr.mp4) · [English](https://github.com/To447744/clearbloat-releases/releases/download/presentation/ClearBloat-tutorial-v2-en.mp4)
-**Format court (9:16) :** [promo verticale](https://github.com/To447744/clearbloat-releases/releases/download/presentation/ClearBloat-promo-9x16-v3.mp4)
+> 🎬 Les vidéos de présentation sont en cours de refonte et reviendront ici très bientôt.
 
 ## Ce que fait ClearBloat
 
